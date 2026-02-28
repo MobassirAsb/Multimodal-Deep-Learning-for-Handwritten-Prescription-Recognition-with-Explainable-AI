@@ -31,16 +31,5 @@ Using a **ResNet-b0 backbone** fused with metadata embeddings, our model signifi
 
 ✔️ **ResNet-b0 multimodal achieved the best performance**, confirming the effectiveness of metadata fusion.  
 
----
-
----
-
-## 🚀 Future Work  
-- Expand dataset size and diversity across doctors, regions, and writing styles.  
-- Incorporate **image explainability** (e.g., Grad-CAM, attention maps).  
-- Explore lightweight architectures for **real-world deployment**.  
-- Extend metadata to include prescription context (e.g., dosage schedule, strength).  
-
----
 
 
